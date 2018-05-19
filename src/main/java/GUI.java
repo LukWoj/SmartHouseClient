@@ -1,4 +1,4 @@
-import javafx.application.Application;
+/*import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -32,4 +32,4 @@ public class GUI extends Application {
         Parent root = loader.load();
         return root;
     }
-}
+}*/
